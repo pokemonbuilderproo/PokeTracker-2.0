@@ -1,4 +1,6 @@
-// PokeTracker repository fixpluginManagement {
+// PokeTracker repository fix
+
+pluginManagement {
     repositories {
         google()
         mavenCentral()
